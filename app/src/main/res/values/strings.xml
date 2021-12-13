@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyLuckyToday</string>
+    <string name="your_lucky_today">Your Lucky Today</string>
+    <string name="your_lucky_today1">Beware what you wish for, unless you have the grace to hope that your luck can be shared</string>
+    <string name="your_lucky_today2">Luck is what we make it, not what is thrust upon us. You’ve shown initiative and it has nothing to do with luck.</string>
+    <string name="your_lucky_today3">Not many people have had as much bad luck as I have, but not many people have had as much good luck, either</string>
+    <string name="IDEAL">Press to see your lucky today</string>
+
+</resources>
